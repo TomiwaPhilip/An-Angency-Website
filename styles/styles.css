@@ -1,0 +1,54 @@
+#MainContent {
+    margin: 0%;
+}
+
+.w3-background {
+    background-image: linear-gradient(to right, #030109, #1c0303);
+    color: white;
+}
+
+#header {
+    margin: 0%;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+
+h1 {
+    padding: 0%;
+
+}
+
+.margin1 {
+    margin-left: 12vw;
+}
+
+.margin2 {
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.margin3{
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.margin4{
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.margin5{
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
+
+.rotate{
+    transform: rotate(-28deg)
+}
+
+/* .img{
+    -webkit-clip-path:polygon(0% 20%, 70% 0%,80% 100%,0% 100%);
+    clip-path:polygon(0% 20%, 100% 0%,100% 100%,0% 80%);
+  } */
+
